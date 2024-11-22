@@ -1,0 +1,12 @@
+2
+CompetitionField Field1
+ServiceField Field2 9000 
+3
+Player1 Greedy
+Player2 Careful
+Player3 Tactical
+4
+2
+3
+5
+3

@@ -1,0 +1,11 @@
+com\mycompany\assignment\CarefulStrategy.class
+com\mycompany\assignment\Field.class
+com\mycompany\assignment\PropertyField.class
+com\mycompany\assignment\LuckyField.class
+com\mycompany\assignment\Player.class
+com\mycompany\assignment\Assignment.class
+com\mycompany\assignment\Strategy.class
+com\mycompany\assignment\GreedyStrategy.class
+com\mycompany\assignment\ServiceField.class
+com\mycompany\assignment\TacticalStrategy.class
+com\mycompany\assignment\Game.class
